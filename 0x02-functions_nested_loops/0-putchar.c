@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- * Written by RileyCH
+ * written by Riley
  * Return: 0
  */
 
