@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * written by Riley
- * Return: 0
+ * main - print Putchar
+ *
+ * Return: always 0
+ *
  */
 
 int main(void)
@@ -17,5 +18,6 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
+
 return (0);
 }
